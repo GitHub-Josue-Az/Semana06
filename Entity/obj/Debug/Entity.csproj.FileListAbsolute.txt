@@ -1,0 +1,12 @@
+C:\Users\Alumno\source\repos\Semana05\Entity\bin\Debug\Entity.dll
+C:\Users\Alumno\source\repos\Semana05\Entity\bin\Debug\Entity.pdb
+C:\Users\Alumno\source\repos\Semana05\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Semana05\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Semana05\Entity\obj\Debug\Entity.dll
+C:\Users\Alumno\source\repos\Semana05\Entity\obj\Debug\Entity.pdb
+C:\Users\Josue\source\repos\Semana05_.Net-master\Entity\bin\Debug\Entity.dll
+C:\Users\Josue\source\repos\Semana05_.Net-master\Entity\bin\Debug\Entity.pdb
+C:\Users\Josue\source\repos\Semana05_.Net-master\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\Semana05_.Net-master\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\Semana05_.Net-master\Entity\obj\Debug\Entity.dll
+C:\Users\Josue\source\repos\Semana05_.Net-master\Entity\obj\Debug\Entity.pdb
